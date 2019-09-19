@@ -6,12 +6,14 @@
     "strongagainst": ["Karthus", "Azir", "Orianna", "Xerath", "Twisted Fate"],
     "title":"the Nine-Tailed Fox",
     "blurb":"Unlike other foxes that roamed the woods of southern Ionia, Ahri had always felt a strange connection to the magical world around her; a connection that was somehow incomplete. Deep inside, she felt the skin she had been born into was an ill fit for ...",
+    "tags": ["AP" , "Mage"],
     "info":{ 
         "attack":3,
         "defense":4,
         "magic":8,
         "difficulty":5
      }
+     
   },
  {
     "name":"Ahri",
